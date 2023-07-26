@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "CACULATOR",
+	"description": "the cac.\n\nplaceulator",
+	"links": {
+		"discord": [
+			"kw6pd33TZR"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				1499,
+				148
+			],
+			[
+				1493,
+				148
+			],
+			[
+				1493,
+				155
+			],
+			[
+				1499,
+				155
+			]
+		]
+	},
+	"center": {
+		"254": [
+			1496,
+			152
+		]
+	}
+}
